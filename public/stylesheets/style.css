@@ -1,0 +1,61 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+#site-box{
+	width: 100%;
+}
+
+
+#header-box{
+	float: left;
+	height:20%;
+}
+
+
+#title-box{
+	float: left;
+	height:100%;
+}
+
+
+#main-box{
+	float: left;
+	height:80%;
+}
+
+
+#graph-box{
+	float: left;
+	width: 60%;
+}
+
+
+#right-box{
+	float: right;
+	width: 40%;
+}
+
+#half-height-box{
+	float: left;
+	height: 50%;
+}
+
+#left-unit-box{
+	float: left;
+	width: 40%;
+	text-align: center;
+}
+
+#right-unit-box{
+	float: right;
+	width: 60%;
+	text-align: center;
+}
+
